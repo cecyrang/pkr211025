@@ -5,7 +5,6 @@ public class MemberVO {
 	private String id ;
 	public MemberVO() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 	public MemberVO(String name, String id) {
 		super();
